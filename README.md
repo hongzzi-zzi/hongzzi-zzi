@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-이번주안에 이쁜 깃허브 만들어야지 
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hongzzi-zzi)](https://github.com/anuraghazra/github-readme-stats)
+
