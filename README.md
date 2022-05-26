@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-VS Code-000000?style=flat&logo=Visual Studio Code"/></a>
 <img src="https://img.shields.io/badge/-CUDA-000000?style=flat&logo=NVIDIA"/></a>
 <img src="https://img.shields.io/badge/-Anaconda-000000?style=flat&logo=Anaconda"/></a>
+<img src="[https://img.shields.io/badge/-Anaconda-000000?style=flat&logo=Anaconda](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker)"/></a>
 
 ###### used at least once
 <img src="https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=Tensorflow"/></a>
